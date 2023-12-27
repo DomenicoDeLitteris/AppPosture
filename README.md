@@ -1,5 +1,4 @@
-# AppPosture
-Titolo: Relazione su APPosture: Un'app innovativa per il miglioramento della postura
+# AppPosture: Un'app innovativa per il miglioramento della postura
 
 Introduzione:
 APPosture è un'applicazione progettata con l'obiettivo di migliorare la postura degli utenti attraverso l'utilizzo di tecnologie avanzate. La realizzazione di questa app ha coinvolto l'impiego di strumenti sofisticati, tra cui Vision, SwiftUI e PhotosUI, che hanno contribuito a fornire un'esperienza utente efficace e coinvolgente.
